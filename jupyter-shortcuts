@@ -7,3 +7,19 @@ Jupyter Notebook Frequently Used Shortcuts
 5) Run Cells ? Edit Mode Shift + Enter
 6) Run Cells + New Line ? Cmd Shift + Enter 
 7) See other Shortcuts ? Ctrl Shift P  
+
+
+Change Interactivity
+1) Do you want to display multiple command outputs ?
+
+from IPython.core.interactiveshell import InteractiveShell
+InteractiveShell.ast_node_interactivity = "all"
+
+Magic Commands
+
+# This will list all magic commands
+%lsmagic
+
+
+Reference Link
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
