@@ -1,1 +1,9 @@
 Jupyter Notebook Frequently Used Shortcuts
+
+1) Edit or Control ? Do you want to be in Edit or Command mode ? Use Enter or Escape. Blue for Control and Greed for Edit Mode.
+2) Insert Cells ? Above Cmd ->  A  Below Cmd -> B 
+3) Delete Cells ? Cmd D D 
+4) Change Cell Formatt ? Code Y, Raw R , Heading 1 , 2 , 3 , 4 , 5 , 6 
+5) Run Cells ? Edit Mode Shift + Enter
+6) Run Cells + New Line ? Cmd Shift + Enter 
+7) See other Shortcuts ? Ctrl Shift P  
